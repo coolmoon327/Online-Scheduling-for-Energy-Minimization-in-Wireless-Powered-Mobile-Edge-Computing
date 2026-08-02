@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# Local environments and caches
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated experiment outputs
+*.mat
+data/*.txt
+data/*.npz
+results/

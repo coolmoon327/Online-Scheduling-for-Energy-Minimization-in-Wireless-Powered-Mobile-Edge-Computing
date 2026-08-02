@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the related IEEE WCNC paper."
+title: "Online Scheduling for Energy Minimization in Wireless-Powered Mobile Edge Computing"
+type: software
+authors:
+  - family-names: Shen
+    given-names: Yuhang
+    orcid: "https://orcid.org/0000-0002-3358-3463"
+repository-code: "https://github.com/coolmoon327/Online-Scheduling-for-Energy-Minimization-in-Wireless-Powered-Mobile-Edge-Computing"
+preferred-citation:
+  type: conference-paper
+  title: "Online Scheduling for Energy Minimization in Wireless Powered Mobile Edge Computing"
+  authors:
+    - family-names: He
+      given-names: Xingqiu
+    - family-names: Shen
+      given-names: Yuhang
+      orcid: "https://orcid.org/0000-0002-3358-3463"
+    - family-names: Wang
+      given-names: Xiong
+    - family-names: Wang
+      given-names: Sheng
+    - family-names: Xu
+      given-names: Shizhong
+    - family-names: Ren
+      given-names: Jing
+  collection-title: "2022 IEEE Wireless Communications and Networking Conference (WCNC)"
+  year: 2022
+  start: 1146
+  end: 1151
+  doi: "10.1109/WCNC51071.2022.9771592"
